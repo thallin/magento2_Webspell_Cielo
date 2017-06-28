@@ -1,0 +1,17 @@
+{
+    "name": "webspell/cielo",
+    "description": "Integração Cielo Magento 2",
+    "type": "magento2-module",
+    "version": "dev-master",
+    "license": [
+        "OSL-3.0"
+    ],
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Webspell/Cielo"
+            ]
+        ]
+    }
+}
